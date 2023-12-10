@@ -1,0 +1,3 @@
+C:/Users/Fabio/CLionProjects/Agenda2/cmake-build-debug/CMakeFiles/Agenda.dir
+C:/Users/Fabio/CLionProjects/Agenda2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabio/CLionProjects/Agenda2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
